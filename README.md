@@ -2,7 +2,7 @@
 
 Fazt community is a space where developers and designers meet. A place where you can learn, have fun and improve your skills.
 
-Fazt Community Docs is the first step for contribuite in this community. This implies the requirements, database, kanban methodology and more.
+Fazt Community Docs is the first step to contribute in this community. This implies the requirements, rules, kanban methodology and more.
 
 ## First Step
 
@@ -19,6 +19,4 @@ guidelines for [contributing][contributing].
 
 [contributing]: https://faztcommunity.github.io/fazt-community-docs/
 [quickstart]: https://faztcommunity.github.io/fazt-community-docs/
-
-[changelog]:
-[ng]: https://fazt-oficial-web.vercel.app/
+[changelog]: https://faztcommunity.github.io/fazt-community-docs/
