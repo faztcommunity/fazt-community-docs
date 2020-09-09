@@ -1,6 +1,6 @@
 # Bienvenida
 
->
+> Hola les damos la bienvenida a Fazt Community
 
 # Introducción a Fazt Community Docs
 
