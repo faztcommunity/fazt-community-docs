@@ -12,7 +12,6 @@ Los Fazt Community Docs te ayudarán en el camino de colaborar en nuestros proye
 > - 📒 [¿En qué ayuda Fazt Community?](#projects)
 > - 🛠 [¿Cómo contribuir?](#supported-frameworks)
 > - 🚇 [¿Cómo crear un proyecto para Fazt Community?](#sub-projects)
-> - 🔗 [¿Cómo crear un proyecto para Fazt Community?](#addons)
 > - 🏅 [Revisa nuestros proyectos](#badges--presentation-materials)
 > - 👥 [Recursos](#community)
 > - 👏 [Nuestra Red](#contributing)
@@ -26,13 +25,9 @@ Al unirte, podrás conectar con profesionales en el sector del desarrollo de sof
 
 # ¿Cómo contribuir?
 
-Para colaborar con la comunidad pruedes empezar con estos proyectos:
-
-## Repositorios
-
-> [Free DBM](#https://github.com/faztcommunity/FreeDBM)
-
-> [Fazt Bot](#https://github.com/faztcommunity/fazt-bot)
+Para poder contribuir puede ser de dos formas , tanto trabajar de manera interna en los repositorios o hacer un fork.
+Nuestros administradores revisarán los pull request para una pronta aceptación en los cambios.
+Recuerda que si quieres trabajar con la comunidad y tener mejor comunicación , puedes ingresar a nuestro [Discord](https://discord.gg/rg3fKr6) y consultar sobre los proyectos comunitarios y con gusto se les dara el alcance.
 
 ## Commits y Pull Requests
 
@@ -62,11 +57,20 @@ release: (Creación de una nueva version en el proyecto)
 
 ## ¿Cómo crear un proyecto para Fazt Community?
 
->
+Si tienes ganas de crear un proyecto dentro de la organizacion puedes consultarlo a los siguientes encargados:
 
-# Revisa nuestros proyectos
+> [leave20](https://github.com/leave20) Leader Project Manager.
 
->
+> [Tati](https://github.com/tati1206) Leader Project Manager.
+
+Ambos encargados podrán asesorarte en crear tus repositorios dentro de la organizacion.
+
+# Revisa nuestros proyectos core
+
+> - [Fazt API](https://github.com/faztcommunity/fazt-api)
+> - [Fazt Web Community](https://github.com/faztcommunity/fazt-oficial-web)
+> - [Fazt Methodology](https://github.com/faztcommunity/fazt-methodology-core)
+> - [Fazt Bot](https://github.com/faztcommunity/fazt-bot)
 
 # Recursos
 
@@ -74,7 +78,9 @@ release: (Creación de una nueva version en el proyecto)
 
 # Nuestra Red
 
->
+Plataforma principal de la comunidad es por medio de Discord.
+
+[![Discord Server](./public/gg01.PNG)](https://discord.gg/rg3fKr6)
 
 # Licencia
 
