@@ -1,0 +1,80 @@
+:root {
+    /* --custom-bg-color: #36393f; */
+    --custom-bg-color: #262626;
+    --custom-sidebar-color: #1d1d1d;
+    --list-item-active-link: #37a6f6;
+    --list-item-active-link-dark: #0776c6;
+    --titles-font: 'Open Sans', sans-serif;
+    --body-font: 'Roboto', sans-serif;
+    --light: #fafafa;
+    --text-color: #d9d9d9;
+    --li-item-bg: #191515a6;
+}
+body {
+    font-family: var(--body-font);
+    font-size: 16px;
+}
+img {
+    border-radius: 5px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: var(--titles-font);
+}
+p {
+    color: var(--text-color);
+    line-height: 1.7;
+    font-weight: 400;
+}
+body,
+.sidebar-toggle {
+    background-color: var(--custom-bg-color);
+}
+/* Sidebar */
+.sidebar-toggle span {
+    background-color: var(--list-item-active-link);
+}
+.sidebar {
+    background-color: var(--custom-sidebar-color);
+}
+.sidebar ul li.active > a {
+    color: var(--list-item-active-link);
+}
+/* List items */
+li.active {
+    background: var(--li-item-bg);
+    border-radius: 4px;
+}
+li.active > a.section-link {
+    padding-left: 0.3rem;
+}
+.anchor span {
+    color: var(--light);
+}
+.github-corner svg {
+    fill: var(--list-item-active-link);
+}
+/* Markdown */
+.markdown-section a {
+    color: var(--list-item-active-link);
+}
+.markdown-section blockquote {
+    border-left: 2px solid var(--list-item-active-link-dark);
+}
+.markdown-section pre > code {
+    color: #b1b8ca;
+    background-color: var(--custom-sidebar-color);
+}
+.markdown-section code,
+.markdown-section pre {
+    background-color: var(--custom-sidebar-color);
+}
+@media screen and (min-width: 1440px) {
+    p {
+        width: 80%;
+    }
+}

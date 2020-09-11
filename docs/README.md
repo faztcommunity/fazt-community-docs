@@ -8,14 +8,14 @@ Los Fazt Community Docs te ayudarán en el camino de colaborar en nuestros proye
 
 ## Primer Vistazo
 
-> - 🚀 [¿Qué es Fazt Community?](#getting-started)
-> - 📒 [¿En qué ayuda Fazt Community?](#projects)
-> - 🛠 [¿Cómo contribuir?](#supported-frameworks)
-> - 🚇 [¿Cómo crear un proyecto para Fazt Community?](#sub-projects)
-> - 🏅 [Revisa nuestros proyectos](#badges--presentation-materials)
-> - 👥 [Recursos](#community)
-> - 👏 [Nuestra Red](#contributing)
-> - :memo: [Licencia](#license)
+> -   🚀 [¿Qué es Fazt Community?](#getting-started)
+> -   📒 [¿En qué ayuda Fazt Community?](#projects)
+> -   🛠 [¿Cómo contribuir?](#supported-frameworks)
+> -   🚇 [¿Cómo crear un proyecto para Fazt Community?](#sub-projects)
+> -   🏅 [Revisa nuestros proyectos](#badges--presentation-materials)
+> -   👥 [Recursos](#community)
+> -   👏 [Nuestra Red](#contributing)
+> -   :memo: [Licencia](#license)
 
 ## ¿En qué te ayuda Fazt Community?
 
@@ -33,7 +33,7 @@ Recuerda que si quieres trabajar con la comunidad y tener mejor comunicación , 
 
 La forma correcta de colaborar en un proyecto de git, es seguir los convenios de desarrollo:
 
-- Basado en el convenio de cerlink
+-   Basado en el convenio de cerlink
 
 ```git
 feat: (Características nuevas para usuario, no característica para script de compilación)
@@ -67,10 +67,10 @@ Ambos encargados podrán asesorarte en crear tus repositorios dentro de la organ
 
 # Revisa nuestros proyectos core
 
-> - [Fazt API](https://github.com/faztcommunity/fazt-api)
-> - [Fazt Web Community](https://github.com/faztcommunity/fazt-oficial-web)
-> - [Fazt Methodology](https://github.com/faztcommunity/fazt-methodology-core)
-> - [Fazt Bot](https://github.com/faztcommunity/fazt-bot)
+> -   [Fazt API](https://github.com/faztcommunity/fazt-api)
+> -   [Fazt Web Community](https://github.com/faztcommunity/fazt-oficial-web)
+> -   [Fazt Methodology](https://github.com/faztcommunity/fazt-methodology-core)
+> -   [Fazt Bot](https://github.com/faztcommunity/fazt-bot)
 
 # Recursos
 
