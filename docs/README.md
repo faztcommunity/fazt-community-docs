@@ -23,7 +23,7 @@ Es una comunidad de desarrolladores en latinoamerica. Aqui puedes crecer como pr
 
 Al unirte, podrás conectar con profesionales en el sector del desarrollo de software, aprender a crecer tu portafolio de proyecto y encontrar nuevas posibilidades de empleo.
 
-# ¿Cómo contribuir?
+#¿Cómo contribuir?
 
 Para poder contribuir puede ser de dos formas , tanto trabajar de manera interna en los repositorios o hacer un fork.
 Nuestros administradores revisarán los pull request para una pronta aceptación en los cambios.

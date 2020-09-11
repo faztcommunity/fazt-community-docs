@@ -1,18 +1,17 @@
 :root {
-    /* --custom-bg-color: #36393f; */
-    --custom-bg-color: #262626;
+    --custom-bg-color: #252323;
     --custom-sidebar-color: #1d1d1d;
-    --list-item-active-link: #37a6f6;
-    --list-item-active-link-dark: #0776c6;
+    --list-item-active-link: #ec5f83;
+    --list-item-active-link-dark: #ec0b2b;
     --titles-font: 'Open Sans', sans-serif;
     --body-font: 'Roboto', sans-serif;
     --light: #fafafa;
-    --text-color: #d9d9d9;
+    --text-color: #e2dcdc;
     --li-item-bg: #191515a6;
 }
 body {
     font-family: var(--body-font);
-    font-size: 16px;
+    font-size: 17px;
 }
 img {
     border-radius: 5px;
@@ -27,7 +26,7 @@ h6 {
 }
 p {
     color: var(--text-color);
-    line-height: 1.7;
+    line-height: 1.8;
     font-weight: 400;
 }
 body,
