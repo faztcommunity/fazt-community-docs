@@ -9,9 +9,10 @@ Los Fazt Community Docs te ayudarán en el camino de colaborar en nuestros proye
 ## Primer Vistazo
 
 > - 🚀 [¿Qué es Fazt Community?](#getting-started)
-> - 📒 [¿En qué ayuda Fazt Community?](#projects)
+> - 📒 [¿En qué te ayuda Fazt Community?](#projects)
 > - 🛠 [¿Cómo contribuir?](#supported-frameworks)
 > - 🚇 [¿Cómo crear un proyecto para Fazt Community?](#sub-projects)
+> - ✳️ [Organización](#Organization)
 > - 🏅 [Revisa nuestros proyectos](#badges--presentation-materials)
 > - 👥 [Recursos](#community)
 > - 👏 [Nuestra Red](#contributing)
@@ -35,13 +36,39 @@ Recuerda que si quieres trabajar con la comunidad y tener mejor comunicación , 
 
 ## Organización
 
+Fazt Community está organizado de la siguiente forma :
+
+#### Owners
+
+Administradores principales de la organización.
+
+[Fazt](https://github.com/FaztTech) main administrator
+
+[Edixon](https://github.com/EdixonAlberto) repository manager
+
+[Tati](https://github.com/tati1206) project management leader
+
+[Craig](https://github.com/leave20) project management leader
+
+### area leaders
+
+[Juan Carlos](https://github.com/juank1791) **Resource Team** graphic design specialist UI UX
+
+[Dano](https://github.com/DanoRysJan) **Methodology Team** data analysis specialist
+
+[Yuborama](https://github.com/yuborama) **Frontend Team** web application development specialist
+
+[Fernando](https://github.com/Beor18) **Backend Team** web services specialist
+
+[Lottie](https://github.com/EnzoDiazDev) **Bot Team** web services specialist
+
 ## Commits y Pull Requests
 
 La forma correcta de colaborar en un proyecto de git, es seguir los convenios de desarrollo:
 
 - Basado en el convenio de cerlink
 
-```
+```bash
 feat: (Características nuevas para usuario, no característica para script de compilación)
 
 fix: (Corrección de errores para usuario, no corrección de script de compilación)
@@ -94,7 +121,7 @@ Plataforma principal de la comunidad en Discord.
 
 > Como toda comunidad contamos con ciertas reglas que se deben acatar para tener una buena estadía en el server.
 
-```
+```bash
 1. **Civil** Nada de insultos, amenazas, imágenes ofensivas o ataques contra otras personas. Prohibido conspirar contra los staffs.
 
 2. **Idioma Oficial** El idioma oficial de este servidor es el español o castellano al ser el idioma más extendido de Latinoamérica y España. No messages in English (Except in #no-spanish channel).
@@ -152,6 +179,4 @@ Este es el cuerpo que vela por toda la comunidad:
 **Para ser parte del staff se debe tener en cuenta el esfuerzo constante hacia la comunidad, las ganas de participar y enseñar, ser de gran ayuda hacia los demás sin pedir o esperar algo a cambio.
 Dependiendo a dichos factores mencionados se procederá por parte de la administración a evaluar a dichos usuarios para ciertos cargos.**
 
-# Licencia
 
->
