@@ -38,7 +38,7 @@ Recuerda que si quieres trabajar con la comunidad y tener mejor comunicación , 
 
 Fazt Community está organizado de la siguiente forma :
 
-#### Owners
+### Owners
 
 Administradores principales de la organización.
 
@@ -50,7 +50,7 @@ Administradores principales de la organización.
 
 [Craig](https://github.com/leave20) project management leader
 
-### area leaders
+### Area leaders
 
 [Juan Carlos](https://github.com/juank1791) **Resource Team** graphic design specialist UI UX
 
@@ -107,7 +107,15 @@ Ambos encargados podrán asesorarte en crear tus repositorios dentro de la organ
 
 # Recursos
 
->
+Los recursos que se mostrarán en los siguientes enlaces son tanto los diseños como las propuestas que se hacen en la comunidad de Fazt Tech en discord , tambien tenemos los recursos base que se utilizan en los proyectos comunitarios que tenemos en la organización.
+
+## Tipos de recursos
+
+### Recursos para la comunidad
+https://www.notion.so/RECURSOS-DE-LA-COMUNIDAD-0a20ab35c45f410d9cc5766265cf0f09
+### Recursos para los proyectos comunitarios
+https://www.notion.so/RECURSOS-DE-LA-WEB-FAZT-COMMUNITY-3708777329fd4d239f3804e58e9dde5f
+
 
 # Comunidad en Discord
 
@@ -178,5 +186,3 @@ Este es el cuerpo que vela por toda la comunidad:
 
 **Para ser parte del staff se debe tener en cuenta el esfuerzo constante hacia la comunidad, las ganas de participar y enseñar, ser de gran ayuda hacia los demás sin pedir o esperar algo a cambio.
 Dependiendo a dichos factores mencionados se procederá por parte de la administración a evaluar a dichos usuarios para ciertos cargos.**
-
-
