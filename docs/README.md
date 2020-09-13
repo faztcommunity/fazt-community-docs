@@ -62,6 +62,25 @@ Administradores principales de la organización.
 
 [Lottie](https://github.com/EnzoDiazDev) **Bot Team** web services specialist
 
+### Moderators
+
+[zephiro](https://github.com/ZephiroRB) **Backend Team**
+
+[Fede](https://github.com/Fedeya) **Backend Team**
+
+
+[William](https://github.com/Willishakespeare) **Frontend Team**
+
+[Danicito](https://github.com/stylessh) **Frontend Team**
+
+[Erian](https://github.com/erianvc) **Frontend Team**
+
+
+[kikkelon](https://github.com/hulkike) **Methodology Team** Especialist, consultant and mentor
+
+[zD4y](https://github.com/zd4y) **Bot Team**
+
+
 ## Commits y Pull Requests
 
 La forma correcta de colaborar en un proyecto de git, es seguir los convenios de desarrollo:
