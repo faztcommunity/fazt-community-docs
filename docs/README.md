@@ -8,15 +8,13 @@ Los Fazt Community Docs te ayudarán en el camino de colaborar en nuestros proye
 
 ## Primer Vistazo
 
-> - 🚀 [¿Qué es Fazt Community?](#getting-started)
-> - 📒 [¿En qué te ayuda Fazt Community?](#projects)
-> - 🛠 [¿Cómo contribuir?](#supported-frameworks)
-> - 🚇 [¿Cómo crear un proyecto para Fazt Community?](#sub-projects)
-> - ✳️ [Organización](#Organization)
-> - 🏅 [Revisa nuestros proyectos](#badges--presentation-materials)
-> - 👥 [Recursos](#community)
-> - 👏 [Nuestra Red](#contributing)
-> - :memo: [Licencia](#license)
+> - 🚀 [¿Qué es Fazt Community?](#qué-es-fazt-community)
+> - 📒 [¿En qué te ayuda Fazt Community?](#en-qué-te-ayuda-fazt-community)
+> - 🛠 [¿Cómo contribuir?](#cómo-contribuir)
+> - 👥 [Staff](#staff)
+> - 🪧 [Comunidad en discord](#comunidad-en-discord)
+> - 📏 [Reglas](#reglas)
+> - 📜 [Manual de uso](#manual-de-uso)
 
 ## ¿Qué es Fazt Community?
 
