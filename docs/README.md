@@ -83,7 +83,7 @@ Fazt Community extiende del [Código de Conducta](https://www.contributor-covena
 
 4. No se permite publicar contenido ilegal o falsificado como malware, piratería de software, libros o vídeos.
 
-5. No se tolera el spam (autopromoción, mensajes fuera de lugar y flood) fuera de los canales donde esté permitido compartir contenido. Puedes compartir enlaces a cosas que hayas hecho en #compartir, o en #cafetería si el contexto lo amerita. 
+5. No se tolera el spam (autopromoción, mensajes fuera de lugar y flood) fuera de los canales donde esté permitido compartir contenido. Puedes compartir enlaces a cosas que hayas hecho en #compartir, o en #cafetería si el contexto lo amerita. No compartas enlaces de referidos o similares.
 
 6. No hagas flood, organiza tus ideas en un único mensaje y no lo repitas múltiples veces en el mismo o distintos canales. 
 
