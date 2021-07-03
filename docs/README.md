@@ -124,21 +124,20 @@ El servidor consta de nueve categorías y aproximadamente cuarenta canales.
 
 * Fazt Community:<br>
 Acá se encuentran los canales de anuncios y bienvenida.<br>
-¡Puedes autoasignarte un rol en el canal de bienvenidas!
 
 * Comunidad: <br>
-Aquí se encuentran los canales de texto generales; general, cafetería para offtopic, compartir para compartir enlaces y recursos, taberna para discutir temas sensibles de la sociedad (+18) y un canal de voz para charlar con los amigos. 
+Aquí se encuentran los canales de texto generales; *general*, *cafetería* para offtopic, *compartir* para compartir enlaces y recursos, *taberna* para discutir temas sensibles de la sociedad (+18) y un canal de voz para charlar con los amigos. 
 
-* Atelier: <br>
+* Actividades: <br>
 En este espacio creativo se llevan a cabo actividades educativas e interactivas; talleres, live coding, challenges y más. 
 
 * Profesional: <br>
 Tres canales dedicados a tu crecimiento profesional. <br>
-Podés encontrar u ofrecer empleos, presentarte tus habilidades ante la comunidad y discutir cuestiones laborales como freelance.
+Podés encontrar u ofrecer empleos, presentar tus habilidades ante la comunidad y discutir cuestiones laborales como freelance.
 
 * Ayuda: <br>
 Este es el espacio donde dejas todas tus consultas y ayudas a otros miembros en sus dudas. <br>
-Cada canal corresponde a cada uno de los [roles](#roles), pero se encuentran abiertos a cualquier rol. <br>
+Cada canal corresponde a cada uno de los [roles](#roles), aunque no importa qué rol tengas, siempre podrás escribir ahí. <br>
 Estos canales pretenden representar las distintas áreas profesionales en nuestra industria, por lo que abarcan la gran mayoría de las tecnologías, actividades y habilidades. <br>
 Si no sabes en qué área corresponde tu duda, dejala directamente en el canal genérico de #dudas.
 
@@ -153,7 +152,7 @@ Un espacio más offtopic que el canal offtopic, es un espacio abierto a literalm
 
 * Logs: <br>
 Bueno, en algún lugar hay que poner información del servidor... <br>
-Utiliza el canal de comandos para jugar con los bots. 
+Utiliza el canal de comandos para jugar con los bots.
 
 Además, recuerda que los canales y las categorías no son fijas. Pueden cambiar con el tiempo y queremos saber qué opinas al respecto. <br>
 Si consideras que es necesario añadir un canal de cualquier tipo, háznoslo saber. 
