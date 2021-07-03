@@ -43,17 +43,18 @@ Si contribuyes en github, crea un fork del repositorio y realiza un pull request
 ## Staff
 
 Administradores de la comunidad:<br>
-[Dano](https://github.com/DanoRysJan)<br>
 [Fazt](https://github.com/FaztTech)<br>
 [Tati](https://github.com/tati1206)<br>
 
 Moderadores de la comunidad:<br>
 [Blopa](https://github.com/Blopaa)<br>
+[Dano](https://github.com/DanoRysJan)<br>
 [Edixon](https://github.com/EdixonAlberto)<br>
 [Elireth](https://github.com/elirethDev)<br>
 [Erian](https://github.com/erianvc)<br>
 [Lottie](https://github.com/EnzoDiazDev)<br>
 [Paolinsky](https://github.com/PaoloTorregroza/)<br>
+[Rodri](https://github.com/rodrigojimenezdencker)
 [Yesniel](https://github.com/YesnielX)
 
 Contribuidores:<br>
