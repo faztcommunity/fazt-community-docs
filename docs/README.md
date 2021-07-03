@@ -16,6 +16,9 @@ Los Fazt Community Docs te ayudarán en el camino de colaborar en nuestros proye
 > - 📏 [Reglas](#reglas)
 > - 📜 [Manual de uso](#manual-de-uso)
 
+### Más información
+> - 🤝 [Contributors](#contributors)
+
 ## ¿Qué es Fazt Community?
 
 Es un grupo de desarrolladores dedicados a la programación y a la creación de proyectos comunitarios.<br>
@@ -98,7 +101,7 @@ Fazt Community extiende del [Código de Conducta](https://www.contributor-covena
 
 11. Evita las menciones a roles, usuarios o quotes en la medida de lo posible para no molestar.
 
-12. Presentate profesionalmente en #presentate, haz ofertas de trabajo únicamente en #empleos, y conversa al respecto en #freelances.
+12. Haz ofertas de trabajo remunerado únicamente en #empleos y conversa al respecto en privado por mensajería directa. 
 
 13. Un nickname o apodo debe ser legible y empezar por caracteres que permitan una posible mención de una manera sencilla, los moderadores se reservan el derecho de modificar aquellos apodos que consideren inadecuados.
 
@@ -160,3 +163,10 @@ Si consideras que es necesario añadir un canal de cualquier tipo, háznoslo sab
 
 Muchas gracias por llegar hasta el final. <br>
 Esperamos que disfrutes de una de las comunidades más grandes de programación de habla hispana.
+
+---
+## Contibutors
+...
+
+### Actividades
+### Talleres
