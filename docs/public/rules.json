@@ -1,0 +1,37 @@
+{
+    "content": null,
+    "embeds": [
+        {
+            "title": "Reglas",
+            "description": "Fazt Community extiende del [Código de Conducta](https://www.contributor-covenant.org/es/version/2/0/code_of_conduct/) de [contributor-covenant.org](https://www.contributor-covenant.org/) y de las [Directivas de la comunidad](https://discord.com/guidelines) de [Discord](https://discord.com) y añade:\n\n1. Nada de insultos, acoso, amenazas, imágenes ofensivas, ataques contra otras personas o contenido NSFW.\n\n2. No comprometer ni vulnerar la identidad de los usuarios.\n\n3. El idioma oficial de este servidor es el español o castellano, al ser el idioma más extendido de Latinoamérica y España.\n\n4. No se permite publicar contenido ilegal o falsificado como malware, piratería de software, libros o vídeos.\n\n5. No se tolera el spam (autopromoción, mensajes fuera de lugar y flood) fuera de los canales donde esté permitido compartir contenido. Puedes compartir enlaces a cosas que hayas hecho en <#467084419178561546>, o en <#466739370561634304> si el contexto lo amerita. \n\n6. No hagas flood, organiza tus ideas en un único mensaje y no lo repitas múltiples veces en el mismo o distintos canales. \n\n7. No uses canales para lo que no son, cada canal tiene su descripción explicando para qué se utiliza.\n\n8. No se permite publicar íntegramente el enunciado de un ejercicio, examen o práctica y pedir su resolución.\n\n9. Coloca tu duda directamente, explica de la mejor manera posible tu problema en el canal adecuado. Si no sabes dónde colocarlo, usa <#466773781814181889>.\n\n10. Pon una triple comilla invertida (`) antes y después del código para monoespaciarlo. No pegues fragmentos de código largos, enlaza a un Gist (https://gist.github.com/) o un Pastebin (https://pastebin.com/).\n\n11. Evita las menciones a roles, usuarios o quotes en la medida de lo posible para no molestar.\n\n12. Haz ofertas de trabajo remunerado únicamente en <#646127082006380565> y conversa al respecto en privado por mensajería directa. \n\n13. Un nickname o apodo debe ser legible y empezar por caracteres que permitan una posible mención de una manera sencilla, los moderadores se reservan el derecho de modificar aquellos apodos que consideren inadecuados.\n\n14. Evita las menciones a roles, usuarios o quotes en la medida de lo posible para no molestar.",
+            "color": 12845109,
+            "author": {
+                "name": "Fazt Community",
+                "url": "https://faztcommunity.dev",
+                "icon_url": "https://raw.githubusercontent.com/faztcommunity/fazt-community-docs/docs/docs/public/favicon.png"
+            }
+        },
+        {
+            "title": "Staff",
+            "description": "Los <@&467070988819890188>s pueden velar por el cumplimiento de estas normas de la forma más estricta posible, recordando lo que está permitido, o penalizando con kick o ban a quienes incumplan una norma.\n\nSi tienes un asunto que debas poner en conocimiento de moderación, envía un mensaje privado a algún moderador.\n\nSi tienes problemas con tus sanciones, habla con un <@&634532172522455040> en privado, no discutas con otros mods acerca de la validez de tus sanciones.\n\n**No envíes mensajes privados a los miembros del <@&854008856220008468> para preguntas técnicas o de programación**, para eso existen los canales del servidor.\n*·*",
+            "color": 12845109,
+            "fields": [{
+                "name": "Contributors",
+                "value": "Los <@&854009595750776873> son miembros que fomentan la participación de los usuarios.\nSiguen un cronograma creado en conjunto con el resto de los miembros del staff, y tienen la responsabilidad de concretar las actividades\n\nSe trata de un rol rotativo que cualquiera puede tener si desea participar, consulta con cualquier miembro del staff sobre cómo participar. \n\nVisita la documentación de los [Contributors](https://faztcommunity.github.io/fazt-community-docs/#/?id=contributors) para más información."
+            }]
+        },
+        {
+            "title": "Extra",
+            "description": "**Roles:**\nPara colocarte un rol dirígete a <#647230409179922443> y selecciona un rol con el comando `!role`.\nSirven para identificarte con tu rol preferido y es posible mencionarlos en los canales correspondientes para conversar de algún tema. No abuses de esta característica. \n\n**Talleres:**\nColocate el rol de <@&694212114662948867> para ser notificado de los talleres de la comunidad.\nEstos se anuncian en el canal de <#693988991573164063> y están abiertos a cualquier miembro que quiera compartir o enseñar un tema.\nConsulta la documentación de los [Talleres](https://faztcommunity.github.io/fazt-community-docs/#/?id=talleres) para más información. \n\n**Sugerencias:**\nPara sugerir cambios y mejoras, crea un issue con la plantilla de *Sugerencias* en el siguiente repositorio.\n> https://github.com/faztcommunity/fazt-community-docs\n\nPara más información visita la [Guía de la comunidad](https://faztcommunity.github.io/fazt-community-docs/).",
+            "color": 12845109
+        },
+        {
+            "description": "Le recordamos a toda la comunidad bajo ningún bajo ningún concepto solicitamos información privada.\nAdemás, no realizamos sorteos de Bitcoin o cualquier tipo de criptomoneda. \n\nSi recibiste un mensaje privado sospechoso, reportalo inmediatamente a los moderadores del servidor.\nSi alguien te envía mensajes con enlaces sospechosos, no lo abras, puede ser un intento para robar tu información.\n\nEn caso de haber colocado tu información en algún sitio de estafas, recuerden cambiar todas sus contraseñas relacionadas a ese email y sean precavidos con los mensajes que llegarán a su correo en los próximos días. \n\nPara conocer si tu email ha sido filtrado, recomendamos usar la herramienta [Firefox Monitor](https://monitor.firefox.com/)\n\nRecuerda jamás ejecutar ningún script en consola ni instalar ningún software que modifique o \"mejore\" el cliente de Discord. Es una potencial estafa para robar tus identificadores de Discord.\n\nSi tenés dudas al respecto, conversemos en <#818585284068245574> o <#466739370561634304>.",
+            "color": 16645629,
+            "author": {
+                "name": "Seguridad",
+                "icon_url": "https://cdn.discordapp.com/attachments/408637769741762570/860925413860573214/scudito.png"
+            }
+        }
+    ]
+}
