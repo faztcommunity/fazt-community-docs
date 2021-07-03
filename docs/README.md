@@ -16,6 +16,9 @@ Los Fazt Community Docs te ayudarán en el camino de colaborar en nuestros proye
 > - 📏 [Reglas](#reglas)
 > - 📜 [Manual de uso](#manual-de-uso)
 
+### Más información
+> - 🤝 [Contributors](#contributors)
+
 ## ¿Qué es Fazt Community?
 
 Es un grupo de desarrolladores dedicados a la programación y a la creación de proyectos comunitarios.<br>
@@ -43,17 +46,18 @@ Si contribuyes en github, crea un fork del repositorio y realiza un pull request
 ## Staff
 
 Administradores de la comunidad:<br>
-[Dano](https://github.com/DanoRysJan)<br>
 [Fazt](https://github.com/FaztTech)<br>
 [Tati](https://github.com/tati1206)<br>
 
 Moderadores de la comunidad:<br>
 [Blopa](https://github.com/Blopaa)<br>
+[Dano](https://github.com/DanoRysJan)<br>
 [Edixon](https://github.com/EdixonAlberto)<br>
 [Elireth](https://github.com/elirethDev)<br>
 [Erian](https://github.com/erianvc)<br>
 [Lottie](https://github.com/EnzoDiazDev)<br>
 [Paolinsky](https://github.com/PaoloTorregroza/)<br>
+[Rodri](https://github.com/rodrigojimenezdencker)
 [Yesniel](https://github.com/YesnielX)
 
 Contribuidores:<br>
@@ -97,7 +101,7 @@ Fazt Community extiende del [Código de Conducta](https://www.contributor-covena
 
 11. Evita las menciones a roles, usuarios o quotes en la medida de lo posible para no molestar.
 
-12. Presentate profesionalmente en #presentate, haz ofertas de trabajo únicamente en #empleos, y conversa al respecto en #freelances.
+12. Haz ofertas de trabajo remunerado únicamente en #empleos y conversa al respecto en privado por mensajería directa. 
 
 13. Un nickname o apodo debe ser legible y empezar por caracteres que permitan una posible mención de una manera sencilla, los moderadores se reservan el derecho de modificar aquellos apodos que consideren inadecuados.
 
@@ -124,21 +128,20 @@ El servidor consta de nueve categorías y aproximadamente cuarenta canales.
 
 * Fazt Community:<br>
 Acá se encuentran los canales de anuncios y bienvenida.<br>
-¡Puedes autoasignarte un rol en el canal de bienvenidas!
 
 * Comunidad: <br>
-Aquí se encuentran los canales de texto generales; general, cafetería para offtopic, compartir para compartir enlaces y recursos, taberna para discutir temas sensibles de la sociedad (+18) y un canal de voz para charlar con los amigos. 
+Aquí se encuentran los canales de texto generales; *general*, *cafetería* para offtopic, *compartir* para compartir enlaces y recursos, *taberna* para discutir temas sensibles de la sociedad (+18) y un canal de voz para charlar con los amigos. 
 
-* Atelier: <br>
+* Actividades: <br>
 En este espacio creativo se llevan a cabo actividades educativas e interactivas; talleres, live coding, challenges y más. 
 
 * Profesional: <br>
 Tres canales dedicados a tu crecimiento profesional. <br>
-Podés encontrar u ofrecer empleos, presentarte tus habilidades ante la comunidad y discutir cuestiones laborales como freelance.
+Podés encontrar u ofrecer empleos, presentar tus habilidades ante la comunidad y discutir cuestiones laborales como freelance.
 
 * Ayuda: <br>
 Este es el espacio donde dejas todas tus consultas y ayudas a otros miembros en sus dudas. <br>
-Cada canal corresponde a cada uno de los [roles](#roles), pero se encuentran abiertos a cualquier rol. <br>
+Cada canal corresponde a cada uno de los [roles](#roles), aunque no importa qué rol tengas, siempre podrás escribir ahí. <br>
 Estos canales pretenden representar las distintas áreas profesionales en nuestra industria, por lo que abarcan la gran mayoría de las tecnologías, actividades y habilidades. <br>
 Si no sabes en qué área corresponde tu duda, dejala directamente en el canal genérico de #dudas.
 
@@ -153,10 +156,17 @@ Un espacio más offtopic que el canal offtopic, es un espacio abierto a literalm
 
 * Logs: <br>
 Bueno, en algún lugar hay que poner información del servidor... <br>
-Utiliza el canal de comandos para jugar con los bots. 
+Utiliza el canal de comandos para jugar con los bots.
 
 Además, recuerda que los canales y las categorías no son fijas. Pueden cambiar con el tiempo y queremos saber qué opinas al respecto. <br>
 Si consideras que es necesario añadir un canal de cualquier tipo, háznoslo saber. 
 
 Muchas gracias por llegar hasta el final. <br>
 Esperamos que disfrutes de una de las comunidades más grandes de programación de habla hispana.
+
+---
+## Contibutors
+...
+
+### Actividades
+### Talleres
