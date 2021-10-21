@@ -1,8 +1,8 @@
 ---
-name: 💡 Sugerencias
+name: "\U0001F4A1 Sugerencias"
 about: Ticket para realizar sugerencias en FaztCommunity
 title: "[Sugerencia] <título>"
-labels: ''
+labels: Sugerencia
 assignees: ''
 
 ---
