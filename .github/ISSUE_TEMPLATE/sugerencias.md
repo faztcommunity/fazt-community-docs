@@ -1,5 +1,5 @@
 ---
-name: Sugerencias
+name: 💡 Sugerencias
 about: Ticket para realizar sugerencias en FaztCommunity
 title: "[Sugerencia] <título>"
 labels: ''
