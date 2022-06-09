@@ -31,7 +31,7 @@ Al unirte, podrás conectar con profesionales en el sector del desarrollo de sof
 
 ## ¿Cómo contribuir?
 
-El centro de la comunidad se encuentra en nuestro servidor de Discord, si quieres trabajar con la comunidad y tener mejor comunicación, puedes ingresar al servidor [Discord](https://discord.gg/rg3fKr6) y consultar sobre los proyectos comunitarios y con gusto se les dará el alcance.
+El centro de la comunidad se encuentra en nuestro servidor de Discord, si quieres trabajar con la comunidad y tener mejor comunicación, puedes ingresar al servidor [Discord](https://discord.gg/JpnY3YqzCN) y consultar sobre los proyectos comunitarios y con gusto se les dará el alcance.
 
 Puedes contribuir en la comunidad como programador o diseñador, tenemos repositorios públicos abiertos a la contribución, además, puedes ayudar contestando las dudas de otros usuarios en los canales del servidor. Crea infografías para publicar en distintas redes sociales, puedes coordinar con otros expertos en el área para complementar la información. 
 
@@ -69,7 +69,7 @@ Tu
 
 Plataforma principal de la comunidad en Discord.
 
-[![Discord Server](./public/card.png)](https://discord.gg/rg3fKr6)
+[![Discord Server](./public/card.png)](https://discord.gg/JpnY3YqzCN)
 
 > **Nota:** Si eres nuevo en usar Discord , deberás **verificar** por medio de tu teléfono la autenticación de tu cuenta. Esto es de mucha ayuda para evitar cuentas de dudosa procedencia.
 
