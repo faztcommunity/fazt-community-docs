@@ -47,21 +47,14 @@ Si contribuyes en github, crea un fork del repositorio y realiza un pull request
 
 Administradores de la comunidad:<br>
 [Fazt](https://github.com/FaztTech)<br>
-[Tati](https://github.com/tati1206)<br>
-
-Moderadores de la comunidad:<br>
-[Blopa](https://github.com/Blopaa)<br>
-[Dano](https://github.com/DanoRysJan)<br>
-[Edixon](https://github.com/EdixonAlberto)<br>
-[Elireth](https://github.com/elirethDev)<br>
-[Erian](https://github.com/erianvc)<br>
-[Lottie](https://github.com/EnzoDiazDev)<br>
-[Paolinsky](https://github.com/PaoloTorregroza/)<br>
-[Rodri](https://github.com/rodrigojimenezdencker)
+[sci.lee](https://github.com/rdev32)<br>
 [Yesniel](https://github.com/YesnielX)
 
+Moderadores de la comunidad:<br>
+
+
 Contribuidores:<br>
-Tu
+[Erian](https://github.com/erianvc)<br>
 
 > Para ser parte del staff se debe tener en cuenta el esfuerzo constante hacia la comunidad, las ganas de participar y enseñar, ser de gran ayuda hacia los demás sin pedir o esperar algo a cambio.
 
@@ -164,9 +157,3 @@ Si consideras que es necesario añadir un canal de cualquier tipo, háznoslo sab
 Muchas gracias por llegar hasta el final. <br>
 Esperamos que disfrutes de una de las comunidades más grandes de programación de habla hispana.
 
----
-## Contibutors
-...
-
-### Actividades
-### Talleres
