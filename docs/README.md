@@ -71,33 +71,23 @@ Plataforma principal de la comunidad en Discord.
 
 Fazt Community extiende del [Código de Conducta](https://www.contributor-covenant.org/es/version/2/0/code_of_conduct/) de [contributor-covenant.org](https://www.contributor-covenant.org/) y de las [Directivas de la comunidad](https://discord.com/guidelines) de [Discord](https://discord.com) y añade:
 ```md 
-1. Nada de insultos, acoso, amenazas, imágenes ofensivas, ataques contra otras personas o contenido NSFW.
+1. Prohibidos los insultos, acosos, amenazas, imágenes ofensivas, ataques hacia otras personas, gaslight y difusion de discursos de odio.
 
-2. No comprometer ni vulnerar la identidad de los usuarios.
+2. No comprometer, difamar ni vulnerar la identidad de los miembros y del servidor.
 
-3. El idioma oficial de este servidor es el español o castellano, al ser el idioma más extendido de Latinoamérica y España.
+3. Esta prohibido el flood, no repitas mensajes en uno o múltiples canales. Asegurate de leer la descripcion de estos para evitar el offtopic. Estos mensajes podran ser borrados para evitar el desorden y jerarquia del servidor.
 
-4. No se permite publicar contenido ilegal o falsificado como malware, piratería de software, libros o vídeos.
+4. Esta prohibido el spam (mensajes no solicitados de indole maliciosa) las estafas y la autopromoción agresiva de estos. 
 
-5. No se tolera el spam (autopromoción, mensajes fuera de lugar y flood) fuera de los canales donde esté permitido compartir contenido. Puedes compartir enlaces a cosas que hayas hecho en #compartir, o en #cafetería si el contexto lo amerita. No compartas enlaces de referidos o similares.
+5. No se permite publicar íntegramente el enunciado de un ejercicio, examen o práctica y/o pedir su resolución.
 
-6. No hagas flood, organiza tus ideas en un único mensaje y no lo repitas múltiples veces en el mismo o distintos canales. 
+6. Todo nickname o apodo debe ser legible y empezar por caracteres que permitan una posible mención de una manera sencilla, los moderadores se reservan el derecho de modificar aquellos apodos que consideren inadecuados.
 
-7. No uses canales para lo que no son, cada canal tiene su descripción explicando para qué se utiliza.
+7. No se permite publicar contenido ilegal o falsificado como malware, piratería de software, libros o vídeos. 
 
-8. No se permite publicar íntegramente el enunciado de un ejercicio, examen o práctica y pedir su resolución.
+8.  El idioma oficial de este servidor es el español, al ser el idioma más extendido de Latinoamérica y España. 
 
-9. Coloca tu duda directamente, explica de la mejor manera posible tu problema en el canal adecuado. Si no sabes dónde colocarlo, usa #dudas.
-
-10. Pon una triple comilla invertida (`) antes y después del código para monoespaciarlo. No pegues fragmentos de código largos, enlaza a un Gist (https://gist.github.com/) o un Pastebin (https://pastebin.com/).
-
-11. Evita las menciones a roles, usuarios o quotes en la medida de lo posible para no molestar.
-
-12. Haz ofertas de trabajo remunerado únicamente en #empleos y conversa al respecto en privado por mensajería directa. 
-
-13. Un nickname o apodo debe ser legible y empezar por caracteres que permitan una posible mención de una manera sencilla, los moderadores se reservan el derecho de modificar aquellos apodos que consideren inadecuados.
-
-14. Evita las menciones a roles, usuarios o quotes en la medida de lo posible para no molestar.    
+El incumplimiento de las reglas sera notificado o penalizado dependiendo de la situacion por el staff del servidor además de no poder ser estas, cuestionadas o reescritas. Los miembros se reservan el derecho a citar las reglas cuando sea nesesario ademas de acatarlas y seguirlas en lo posible.  
 ```
 
 ## Roles
