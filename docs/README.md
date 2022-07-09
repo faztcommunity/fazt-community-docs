@@ -75,7 +75,7 @@ Fazt Community extiende del [Código de Conducta](https://www.contributor-covena
 
 2. No comprometer, difamar ni vulnerar la identidad de los miembros y del servidor.
 
-3. Esta prohibido el flood, no repitas mensajes en uno o múltiples canales. Asegurate de leer la descripcion de estos para evitar el offtopic. Estos mensajes podran ser borrados para evitar el desorden y jerarquia del servidor.
+3. Esta prohibido el flood, no repitas mensajes en uno o múltiples canales. Asegurate de leer la descripcion de estos para evitar el offtopic. Estos mensajes podran ser borrados para evitar el desorden y mantener la jerarquia en el servidor.
 
 4. Esta prohibido el spam (mensajes no solicitados de indole maliciosa) las estafas y la autopromoción agresiva de estos. 
 
@@ -83,11 +83,11 @@ Fazt Community extiende del [Código de Conducta](https://www.contributor-covena
 
 6. Todo nickname o apodo debe ser legible y empezar por caracteres que permitan una posible mención de una manera sencilla, los moderadores se reservan el derecho de modificar aquellos apodos que consideren inadecuados.
 
-7. No se permite publicar contenido ilegal o falsificado como malware, piratería de software, libros o vídeos. 
+7. No se permite publicar contenido ilegal o falsificado como malware, piratería de software, libros y vídeos. 
 
 8.  El idioma oficial de este servidor es el español, al ser el idioma más extendido de Latinoamérica y España. 
 
-El incumplimiento de las reglas sera notificado o penalizado dependiendo de la situacion por el staff del servidor además de no poder ser estas, cuestionadas o reescritas. Los miembros se reservan el derecho a citar las reglas cuando sea nesesario ademas de acatarlas y seguirlas en lo posible.  
+El incumplimiento de las reglas sera notificado o penalizado dependiendo de la situacion por el staff del servidor además de no poder ser estas cuestionadas o re-escritas. Los miembros se reservan el derecho a citar las reglas cuando sea nesesario ademas de acatarlas y seguirlas en lo posible.
 ```
 
 ## Roles
